@@ -3,3 +3,7 @@ __pycache__/
 .ipynb_checkpoints/
 *.pyc
 .DS_Store
+secret1.py
+001_equal_weight_S&P_500.ipynb
+002_quantitative_momentum_strategy.ipynb
+003_quantitative_value_strategy.ipynb
