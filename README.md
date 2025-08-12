@@ -1,6 +1,6 @@
-# 📊 Equal-Weight S&P 500 Index Fund Calculator
+# Equal-Weight S&P 500 Index Fund Calculator
 
-This Python script helps you build an **equal-weighted S&P 500 portfolio** by calculating how many shares of each stock to purchase based on a user-defined total portfolio value.
+This Python script builds an **equal-weighted S&P 500 portfolio** by calculating how many shares of each stock to purchase based on a user-defined total portfolio value.
 
 ---
 
